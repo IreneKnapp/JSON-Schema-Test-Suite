@@ -67,6 +67,18 @@ This suite is being used by:
 If you use it as well, please fork and send a pull request adding yourself to
 the list :).
 
+Status of Tests
+---------------
+
+The draft3/ suite is nominally complete - which is to say that if it fails to
+cover something, we'd like to hear about it!
+
+The draft4/ suite is in early development.  As of this writing (November 2012),
+the draft itself is not complete, but many of the changes which will go into it
+are known.  As such it is appropriate for implementors to begin experimenting.
+This suite should not be treated as complete, however; large sections are
+not done yet.
+
 Contributing
 ------------
 
